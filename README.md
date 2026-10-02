@@ -76,4 +76,4 @@ Librerías usadas: Python 3.9, pandas, numpy, matplotlib y seaborn.
 
 ## Autor
 
-[Tu nombre]
+Angelica Parodys
