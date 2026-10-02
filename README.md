@@ -52,8 +52,8 @@ Usé tres archivos CSV:
 **En Jupyter local:**
 
 ```bash
-git clone https://github.com/<tu-usuario>/<nombre-del-repo>.git
-cd <nombre-del-repo>
+git clone https://github.com/aparodys/sprint7-final-project.git
+cd sprint7-final-projec
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ```
